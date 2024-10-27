@@ -8,3 +8,4 @@
 - [Julia Aftyka](https://github.com/JAftyka/New)
 - [Bartłomiej Byszuk](https://github.com/byszukb/Studies)
 - [Natalia Lendzion](https://github.com/NataliaLen?tab=repositories)
+- [Kajetan Laskowski](https://github.com/Venir42/Jzyki_programowania)
