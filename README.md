@@ -6,3 +6,4 @@
 - [Michał Koszałka](https://github.com/Majkel631)
 - [Julia Aftyka](https://github.com/JAftyka/New)
 - [Bartłomiej Byszuk](https://github.com/byszukb/Studies)
+- [Natalia Lendzion](https://github.com/NataliaLen?tab=repositories)
